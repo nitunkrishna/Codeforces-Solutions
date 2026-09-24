@@ -27,6 +27,8 @@ This repository contains my accepted solutions, organized by problem rating.
 | 1300   | 0 |
 | 1400   | 0 |
 | 1500+  | 0 |
+|--------|----------------:|
+| Total | 121 |
 
 > Problem counts are updated periodically.
 
