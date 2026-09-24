@@ -19,9 +19,9 @@ This repository contains my accepted solutions, organized by problem rating.
 
 | Rating | Problems Solved |
 |--------|----------------:|
-| 800    | 0 |
-| 900    | 0 |
-| 1000   | 0 |
+| 800    | 114 |
+| 900    | 01 |
+| 1000   | 06 |
 | 1100   | 0 |
 | 1200   | 0 |
 | 1300   | 0 |
