@@ -32,3 +32,24 @@ This repository contains my accepted solutions, organized by problem rating.
 > Problem counts are updated periodically.
 
 ---
+
+## 📁 Repository Structure
+
+Each problem has its own folder:
+
+```text
+LeetCode/
+│
+├── 00001A/
+│   ├── code.cpp
+│   └── notes.md
+│
+├── 00002A/
+│   ├── code.cpp
+│   └── notes.md
+│
+├── 00100A/
+│   ├── code.cpp
+│   └── notes.md
+│
+└── ...
