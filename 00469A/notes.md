@@ -1,7 +1,7 @@
 # 469A. A. I Wanna Be the Guy
 
-**Rating:** 800
-**Topics:** Greedy, Implementation
+**Rating:** 800<br>
+**Topics:** Greedy, Implementation<br>
 **Link:** https://codeforces.com/problemset/problem/469/A
 
 ## Approach
