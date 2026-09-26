@@ -1,4 +1,4 @@
-# 469A. A. I Wanna Be the Guy
+# 469A. I Wanna Be the Guy
 
 **Rating:** 800<br>
 **Topics:** Greedy, Implementation<br>
