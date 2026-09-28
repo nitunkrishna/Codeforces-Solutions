@@ -19,7 +19,7 @@ This repository contains my accepted solutions, organized by problem rating.
 
 | Rating | Problems Solved |
 |--------|----------------:|
-| 800    | 114 |
+| 800    | 116 |
 | 900    | 01 |
 | 1000   | 06 |
 | 1100   | 0 |
