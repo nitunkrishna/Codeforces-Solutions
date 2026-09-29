@@ -19,7 +19,7 @@ This repository contains my accepted solutions, organized by problem rating.
 
 | Rating | Problems Solved |
 |--------|----------------:|
-| 800    | 116 |
+| 800    | 117 |
 | 900    | 01 |
 | 1000   | 06 |
 | 1100   | 0 |
@@ -27,7 +27,8 @@ This repository contains my accepted solutions, organized by problem rating.
 | 1300   | 0 |
 | 1400   | 0 |
 | 1500+  | 0 |
-| Total | 121 |
+| Special | 11 |
+| Total | 135 |
 
 > Problem counts are updated periodically.
 
