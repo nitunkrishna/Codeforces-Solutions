@@ -1,8 +1,8 @@
 # 9A. Yakko, Wakko and Dice
 
-**Difficulty:** 800
-**Topics:** Math, Probabilities
-**Link:** https://codeforces.com/problemset/problem/9/A
+**Difficulty:** 800  
+**Topics:** Math, Probabilities  
+**Link:** https://codeforces.com/problemset/problem/9/A  
 
 ## Approach
 
